@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1, FOX SOUL
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1, CNN
+http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
+#EXTINF:-1, Qello Concerts (1080p)
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1, Showtime at the Apollo (720p)
+https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
+#EXTINF:-1, G I Joe Retailtion
+http://ir2.papionvod.ir/Media/Movies/2013/G.I.%20Joe.%20Retaliation%20%282013%29/G%20I%20Joe%20Retaliation%20%282013%29%20480p.mp4
+#EXTINF:-1, Thor Ragnarok
+http://ir2.papionvod.ir/Media/Movies/2017/Thor.%20Ragnarok%20%282017%29/Thor%20Ragnarok%20%282017%29%20480p.mkv
+#EXTINF:-1, Spider- Man Homecoming
+http://ir2.papionvod.ir/Media/Movies/2017/Spider-Man.%20Homecoming%20%282017%29/Spider%20Man%20Homecoming%20%282017%29%20720p.mkv
+#EXTINF:-1, The Fate of the Furious
+http://ir2.papionvod.ir/Media/Movies/2017/The%20Fate%20of%20the%20Furious%20%282017%29/The%20Fate%20of%20the%20Furious%20%282017%29%20720p.mkv
+#EXTINF:-1, A X L
+http://ir2.papionvod.ir/Media/Movies/2018/A-X-L%20%282018%29/A%20X%20L%20%282018%29%20480p.mkv
+#EXTINF:-1, Bumblebee
+http://ir2.papionvod.ir/Media/Movies/2018/Bumblebee%20%282018%29/Bumblebee%20%282018%29%20480p.mkv
+#EXTINF:-1, Shazam!
+http://ir2.papionvod.ir/Media/Movies/2019/Shazam%21%20%282019%29/Shazam%20%282019%29%20480p.mkv
 #EXTINF:-1, Unforgiven
 http://23.147.64.113/movies/Other/Unforgiven%20%281992%29.mkv
 #EXTINF:-1, Xmen Apacalypse
