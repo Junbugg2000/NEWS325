@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Godfather
+https://dl3.3rver.org/cdn2/02/film/1972/The%20Godfather/The.Godfather.1972.720p.BluRay.MkvCage.mkv
+#EXTINF:-1, The Godfather
+https://dl3.3rver.org/cdn2/02/film/1972/The%20Godfather/The.Godfather.1972.1080p.BluRay.6CH.ShAaNiG.mkv
 #EXTINF:-1, US | Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, US | Stargate
